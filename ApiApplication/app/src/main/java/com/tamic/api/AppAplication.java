@@ -6,7 +6,7 @@ import com.tamic.api.base.api.ApiOperation;
 import com.tamic.api.base.api.ApiOperationImpl;
 
 /**
- * Created by LIUYONGKUI726 on 2017-12-28.
+ * Created by Tamic on 2017-12-28.
  */
 
 public class AppAplication extends Application {
